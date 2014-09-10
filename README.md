@@ -1,7 +1,7 @@
 ca-intermediaries
 =================
 
-These certificates were collected from Apple (incomplete), Entrust, Globalsign, DigiCert, Comodo, Trustwave and XRamp, Verisign/Symantec/GeoTrust/Thawte (all one company), and StartCom. More will be added. 187 of these certificates were issued by Comodo.
+These certificates were collected from Apple, Entrust, Globalsign, DigiCert, Comodo, Trustwave and XRamp, Verisign/Symantec/GeoTrust/Thawte (all one company), and StartCom. More will be added. 187 of these certificates were issued by Comodo.
 
 [GeoTrust could, but probably does not have have ommisions](https://bugzilla.mozilla.org/show_bug.cgi?id=1019860)
 
