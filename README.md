@@ -1,6 +1,8 @@
 ca-intermediaries
 =================
 
+**Note: The certificates in here are likely several years out of date, as I have not recently updated the repository.**
+
 These certificates were collected from Apple, Entrust, Globalsign, DigiCert, Comodo, GoDaddy, Trustwave and XRamp, Verisign/Symantec/GeoTrust/Thawte (all one company), and StartCom. More will be added. 187 of these certificates were issued by Comodo.
 
 If you plan to use this repository, note the following:
